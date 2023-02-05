@@ -1,0 +1,14 @@
+{
+  "name": "karma-intellij",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Michael Markl",
+  "dependencies": {
+    "jasmine": "^4.5.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-jasmine": "^5.1.0",
+    "karma-sourcemap-loader": "^0.3.8",
+    "karma-webpack": "^5.0.0"
+  }
+}
