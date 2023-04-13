@@ -1,0 +1,1 @@
+This is a minimal example for the issue described in https://github.com/karma-runner/karma-intellij/issues/40 (Related: https://youtrack.jetbrains.com/issue/WEB-40931/Karma-does-not-pick-up-changes-in-tests).
